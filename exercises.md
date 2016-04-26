@@ -114,12 +114,30 @@ called `split()`.  What happens if you apply this method to the input string?
 
 ### Close enough
 
-Write some conditions that print `True` if the variable `a` is within 10% of the variable `b`
+Write some conditions that print `True` if the variable `a` is within 10 of the variable `b`
 and `False` otherwise.
 Compare your implementation with your partner's:
 do you get the same answer for all possible pairs of numbers?
 
+--------
+
 ### Scripting
 
 Implement another statistical measure (standard deviation, maximum or minimum)
-in our script.  
+in our script.  Commit your changes once you've checked it worked!  
+
+### Organization
+
+* Implicit first step: check where you are.  
+* Create a `code` subdirectory.  
+* Move script and notebook to `code` directory.  
+* Rename your notebook to something more descriptive.  
+* Commit changes
+* Create a README file.  
+* Commit changes.  
+
+Optional:
+* Create a LICENSE file.  (See [this page](http://swcarpentry.github.io/git-novice/11-licensing.html))
+* Create a data README.  
+* Create a "master" script in the main level directory.  
+* Put your directory/repository on GitHub.  
